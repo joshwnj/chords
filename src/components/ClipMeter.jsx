@@ -1,7 +1,5 @@
 import React from "react";
 
-import { useAppStore } from "../store";
-
 export default function ClipMeter({ inputNode }) {
   const { ac } = window;
 
